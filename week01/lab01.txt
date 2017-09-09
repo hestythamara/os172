@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 hesty.thamara StafCS 4096 Sep  9 09:35 .
+drwx--x--x  3 hesty.thamara StafCS 4096 Sep  9 09:34 ..
+drwxr-xr-x  8 hesty.thamara StafCS 4096 Sep  9 09:17 .git
+drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 09:01 key
+-rw-r--r--  1 hesty.thamara StafCS    0 Sep  9 09:36 lab01.txt
+drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 09:00 log
+-rw-r--r--  1 hesty.thamara StafCS    7 Sep  9 08:49 README.md
+drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 09:14 sandbox
+drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 09:34 week00
+drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 08:56 week01
+drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 08:57 week02
+drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 08:57 week03
+drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 08:57 week04
+drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 08:58 week05
+drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 08:58 week06
+drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 08:59 week07
+drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 08:59 week08
+drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 08:59 week09
+drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 09:00 week10
+drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 09:01 xtra
+/home/fasilkom/mahasiswa/h/hesty.thamara/os172/week01
