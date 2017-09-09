@@ -1,2 +1,6 @@
 #ostutorial
 
+Mengapa harus belajar OS:
+1. Supaya mengetahui kelemahan dan kelebihan sebuah sistem operasi
+2. Mampu mencari alternatif untuk mengurangi kelemahan dari suatu sistem operasi
+3. Supaya memahami cara kerja sebuah sistem operasi
