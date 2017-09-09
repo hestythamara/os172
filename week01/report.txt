@@ -1,0 +1,6 @@
+#hesty_thamara
+
+-Mengerjakan bagaimana cara pull dan push di git
+-Mempelajari cara clone
+-Mempelajari cara insert/delete file atau direktori pada badak menggunakan putty
+-Mempelajari cara list dan berpindah direktori
