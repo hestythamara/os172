@@ -20,3 +20,4 @@ drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 08:59 week09
 drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 09:00 week10
 drwxr-xr-x  2 hesty.thamara StafCS 4096 Sep  9 09:01 xtra
 /home/fasilkom/mahasiswa/h/hesty.thamara/os172/week01
+Today is 
