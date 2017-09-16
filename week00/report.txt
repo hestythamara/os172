@@ -1,0 +1,5 @@
+#hesty_thamara
+1. Membuat akun gmail dan akun github
+2. Mengikuti panduan untuk membuat repository di git
+3. Mengisi form google
+4. Login ke kawung dan login ke badak
